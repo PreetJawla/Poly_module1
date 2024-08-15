@@ -47,8 +47,7 @@ The constructor initializes the contract with the name rawrNFT and the symbol RW
 ### Installation
 1. Clone the repository:
   ```shell
-  git clone https://github.com/imankush10/poly-1
-  cd poly-1
+  git clone https://github.com/PreetJawla/Poly_module1/edit/main/README.md
   ```
 2. Install dependencies:
 ```shell
@@ -92,7 +91,7 @@ npx hardhat help
 This command provides a list of available tasks and commands in Hardhat, along with descriptions and usage instructions. It is useful for understanding how to deploy, test, and interact with your smart contracts within the Hardhat environment.
 
 ## Authors
-Ankush Kumar
+Preet
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
